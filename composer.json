@@ -1,5 +1,6 @@
 {
     "name": "phutureproof/eloquence-mappable",
+    "version": "1.0.0",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "keywords": [
